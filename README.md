@@ -2,7 +2,7 @@
 
 ---
 
-Data Analyst | Control & Automation ENgineer
+Data Analyst | Control & Automation Engineer
 
 ---
 
@@ -166,8 +166,7 @@ Meu objetivo é atuar como Analista de Dados, utilizando minha experiência em e
 
 LinkedIn: www.linkedin.com/in/felipe-lopes-4730a7160
 
-GitHub: [Adicionar perfil](#)
-
+GitHub: https://github.com/FelipeLopesPoa
 ---
 
 *Este portfólio é um projeto contínuo de aprendizado. Novos projetos, análises e tecnologias serão adicionados ao longo da minha evolução.*
